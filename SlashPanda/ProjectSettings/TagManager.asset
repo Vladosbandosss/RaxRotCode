@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Tree1
+  - Tree2
+  - Enemy
+  - Obstacle
+  - Health
+  - GameplayController
+  - HealthBarHolder
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PlayerDamage
+  - EnemyDamage
+  - Enemy
+  - Player
+  - PlayerDamage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Trees
+    uniqueID: 2575877489
+    locked: 0
+  - name: Ground
+    uniqueID: 1225867255
+    locked: 0
+  - name: Enemies
+    uniqueID: 1793338617
+    locked: 0
+  - name: Player
+    uniqueID: 1544162865
+    locked: 0
+  - name: UI
+    uniqueID: 4199160929
+    locked: 0
